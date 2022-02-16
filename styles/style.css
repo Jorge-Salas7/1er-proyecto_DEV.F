@@ -13,6 +13,9 @@
     height: 50px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 header {
     background-image: url('https://img.freepik.com/foto-gratis/monstera-deja-textura-selva-tropical_99852-13.jpg?w=740');
