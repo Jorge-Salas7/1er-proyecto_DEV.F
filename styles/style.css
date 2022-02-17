@@ -110,30 +110,14 @@ li a:hover {
   text-decoration: underline;
 }
 
-.contenedorB {
-    display: flex;
-    justify-content: left;
-    align-items: left;
-    width: 20px;
-    height: 50px;
-    color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: fixed;
-    top: 0;
-    width: 100%;
-
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: sticky;
-    top: 0;
-    padding: 10px;
-}
-
-.busqueda2 {
+/*.busqueda2 {
   margin-top: 2.5px;
   margin-left: 1%;
   padding: 10px 250px;
+}*/
+
+
+.contenedorA.scrolled {
+  background-color: #333 !important;
+  transition: background-color 200ms linear;
 }
