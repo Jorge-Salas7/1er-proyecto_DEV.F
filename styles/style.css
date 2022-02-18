@@ -119,7 +119,7 @@ li a:hover {
   padding: -50px;
 }
 
-/*.imag {
+.imag {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -131,7 +131,7 @@ li a:hover {
 .imag im {
   width: 26vw;
   margin-bottom: 20px;
-}*/
+}
 
 .imag {
   display: flex;
