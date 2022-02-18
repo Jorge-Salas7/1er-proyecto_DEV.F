@@ -120,29 +120,5 @@ li a:hover {
 }
 
 .imag {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  width: 60vw;
-  height: 900vh;
-  margin: auto;
-}
-
-.imag im {
-  width: 26vw;
-  margin-bottom: 20px;
-}
-
-.imag {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: rgb(248, 250, 252);
-}
-
-.imag > div {
-  background-color: #f1f1f1;
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
+  width: 50px;
 }
