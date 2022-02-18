@@ -74,7 +74,8 @@ h1 {
 .busqueda {
   margin-top: 140px;
   margin-left: 23.5%;
-  padding: 10px 250px;
+  width: 600px;
+  height: 40px;
 }
 
 main {
@@ -110,14 +111,10 @@ li a:hover {
   text-decoration: underline;
 }
 
-/*.busqueda2 {
-  margin-top: 2.5px;
-  margin-left: 1%;
-  padding: 10px 250px;
-}*/
-
-
 .contenedorA.scrolled {
   background-color: #333 !important;
   transition: background-color 200ms linear;
+  width: 900px;
+  height: 75px;
 }
+
