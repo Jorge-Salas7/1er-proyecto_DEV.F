@@ -114,7 +114,10 @@ li a:hover {
 .contenedorA.scrolled {
   background-color: #333 !important;
   transition: background-color 200ms linear;
-  width: 900px;
+  width: 1300px;
   height: 75px;
 }
 
+#imag {
+  width: 60px;
+}
