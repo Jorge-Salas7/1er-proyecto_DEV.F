@@ -4,8 +4,14 @@
     align-items: left;
     width: 20px;
     height: 50px;
-    margin-top: 15px;
-    margin-left: -70px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.navegacion {
+  display: flex;
+  justify-content: left;
+  align-items: left;
 }
 
 .contenedorA {
@@ -19,6 +25,7 @@
     position: fixed;
     top: 0;
     width: 100%;
+    margin-left: -80px;
 }
 
 header {
@@ -64,7 +71,7 @@ h1 {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin-left: 35px;
+  margin-left: 700px;
   margin-top: 15px;
 }
 .boton:hover, .boton:active {
@@ -114,11 +121,11 @@ li a:hover {
 .contenedorA.scrolled {
   background-color: #333 !important;
   transition: background-color 200ms linear;
-  width: 1300px;
-  height: 75px;
-  padding: -50px;
+  width: 1333px;
+  height: 60px;
 }
 
-.imag {
-  width: 50px;
+img {
+  width: 300px;
+  margin-top: 10px;
 }
