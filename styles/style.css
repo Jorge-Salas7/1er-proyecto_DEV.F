@@ -126,6 +126,11 @@ li a:hover {
 }
 
 img {
-  width: 300px;
-  margin-top: 10px;
+  width: 250px;
+  margin: 5px;
+}
+
+.new_imag {
+  display: flex; 
+  flex-wrap: wrap;
 }
