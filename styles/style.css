@@ -51,7 +51,7 @@ h1 {
     margin-left: 23.5%;
 }
 #suge {
-  display: flex;
+    display: flex;
     justify-content: left;
     align-items: left;
     width: 45%;
@@ -175,4 +175,19 @@ li a:hover {
 * {
   margin: 0;
   padding: 0;
+}
+
+/*PC*/
+@media screen and (max-width: 1024px) and (min-widht: 821px) {
+  
+}
+
+/*Tablet*/
+@media screen and (max-width: 820px) and (min-widht: 415px) {
+  
+}
+
+/*Celular*/
+@media screen and (max-width: 414px) and (min-widht: 1px) {
+  
 }
